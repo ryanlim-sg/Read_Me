@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan.
 - 👀 I’m interested in business analytics.
 - 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on creating an API/applications.
+- 💞️ I have many ideas and is looking to collaborate with someone on creating an API/applications.
 - 📫 How to reach me. lim_junyong@hotmail.com OR +65 98769280
 
 <!---
